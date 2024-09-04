@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/streamify-dashboard/static/css/main.90cf92e6.css",
+    "main.js": "/streamify-dashboard/static/js/main.74abb3e6.js",
+    "static/js/453.2079ab23.chunk.js": "/streamify-dashboard/static/js/453.2079ab23.chunk.js",
+    "index.html": "/streamify-dashboard/index.html",
+    "main.90cf92e6.css.map": "/streamify-dashboard/static/css/main.90cf92e6.css.map",
+    "main.74abb3e6.js.map": "/streamify-dashboard/static/js/main.74abb3e6.js.map",
+    "453.2079ab23.chunk.js.map": "/streamify-dashboard/static/js/453.2079ab23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90cf92e6.css",
+    "static/js/main.74abb3e6.js"
+  ]
+}
