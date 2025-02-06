@@ -4,6 +4,9 @@
 
 Streamify Analytics Dashboard is a single-page web application designed to provide key insights into user activity, revenue, and content performance for a fictional music streaming service called "Streamify." Built using React and TypeScript, the dashboard is both responsive and visually appealing, offering an intuitive interface for the management team to track essential metrics and trends.
 
+## Live
+Check the live demo at https://smartgru.github.io/streamify-dashboard/
+
 ## Features
 
 ### Dashboard Overview
